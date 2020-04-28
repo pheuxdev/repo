@@ -1,5 +1,5 @@
 Package: com.pheux.fixrandomresprings
-Name: FixRandomResprings
+Name: Fix Random Resprings
 Depends: com.bingner.plutil, firmware (>= 12.0)
 Version: 1.0
 Architecture: iphoneos-arm
