@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.pheux.fixrandomresprings
+Name: FixRandomResprings
+Depends: com.bingner.plutil, firmware (>= 12.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Increases SpringBoard allowable memory as much as possible to prevent SpringBoard crashes and stop random resprings. I found the fix and told skitty, who originally wrote this script. To revert changes, simply uninstall this.
+Maintainer: Pheux
+Author: Pheux
+Section: Tweaks
+Filename: ./debs/com.pheux.fixrandomresprings.deb
+Depiction: https://pheuxdev.github.io/repo/depictions/fixrandomresprings
+Size: 1158
+MD5sum: f4c83a91bdd749facfc94ac23a87e222

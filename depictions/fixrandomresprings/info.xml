@@ -1,0 +1,27 @@
+<package>
+    <id>com.pheux.fixrandomresprings</id>
+	<name>FixRandomResprings</name>
+    <version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.bingner.plutil, firmware (>= 12.0)</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Increases SpringBoard allowable memory as much as possible to prevent SpringBoard crashes and stop random resprings. I found the fix and told skitty, who originally wrote this script. To revert changes, simply uninstall this.</description>
+	</descriptionlist>
+	<changelog>
+        <version>1.0</version>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
