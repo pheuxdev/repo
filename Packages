@@ -10,4 +10,6 @@ Section: Tweaks
 Filename: ./debs/com.pheux.fixrandomresprings.deb
 Depiction: https://pheuxdev.github.io/repo/depictions/fixrandomresprings
 Size: 1158
+SHA1: 32ef7fdc3ffeb2a5e0dc19ca6f06c9273a4211bd
+SHA256: 89dd2667d4b98cbb4dd397a60a6be78aa3307365f1db82836256527350294ed1
 MD5sum: f4c83a91bdd749facfc94ac23a87e222
