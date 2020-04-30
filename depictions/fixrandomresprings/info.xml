@@ -1,7 +1,7 @@
 <package>
     <id>com.pheux.fixrandomresprings</id>
 	<name>FixRandomResprings</name>
-    <version>1.0</version>
+    <version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -14,8 +14,8 @@
 		<description>Increases SpringBoard allowable memory as much as possible to prevent SpringBoard crashes and stop random resprings. I found the fix and told skitty, who originally wrote this script. To revert changes, simply uninstall this.</description>
 	</descriptionlist>
 	<changelog>
-        <version>1.0</version>
-		<change>Initial Release</change>
+        <version>1.1</version>
+		<change>Increased even more Springboard's memory</change>
 	</changelog>
 	<links>
 		<link>

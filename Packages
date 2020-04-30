@@ -1,7 +1,7 @@
 Package: com.pheux.fixrandomresprings
 Name: Fix Random Resprings
 Depends: com.bingner.plutil, firmware (>= 12.0)
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Increases SpringBoard allowable memory as much as possible to prevent SpringBoard crashes and stop random resprings. I found the fix and told skitty, who originally wrote this script. To revert changes, simply uninstall this.
 Maintainer: Pheux
@@ -9,7 +9,7 @@ Author: Pheux
 Section: Tweaks
 Filename: ./debs/com.pheux.fixrandomresprings.deb
 Depiction: https://pheuxdev.github.io/repo/depictions/fixrandomresprings
-Size: 1158
-SHA1: 32ef7fdc3ffeb2a5e0dc19ca6f06c9273a4211bd
-SHA256: 89dd2667d4b98cbb4dd397a60a6be78aa3307365f1db82836256527350294ed1
-MD5sum: f4c83a91bdd749facfc94ac23a87e222
+Size: 1220
+SHA1: 9a7f6549c5afb470e672a0ad0d6c9de3304d7113
+SHA256: a406d3a9a5f0b677dabac3d096786e9360006a4538adf0f00abc6b8e93197433
+MD5sum: 9e742ce884828bd8fafc469021adafce
