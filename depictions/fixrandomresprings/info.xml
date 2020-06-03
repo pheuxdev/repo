@@ -8,14 +8,14 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.bingner.plutil, firmware (>= 12.0)</package>
+		<package>plutil (>= 0.2.0), firmware (>= 12.0)</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Increases SpringBoard allowable memory as much as possible to prevent SpringBoard crashes and stop random resprings. I found the fix and told skitty, who originally wrote this script. To revert changes, simply uninstall this.</description>
 	</descriptionlist>
 	<changelog>
-        <version>1.1</version>
-		<change>Increased even more Springboard's memory</change>
+        <version>1.2</version>
+		<change>Support for 13.5 and Odyssey jailbreak</change>
 	</changelog>
 	<links>
 		<link>
