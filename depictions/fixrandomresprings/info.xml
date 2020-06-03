@@ -1,7 +1,7 @@
 <package>
     <id>com.pheux.fixrandomresprings</id>
 	<name>FixRandomResprings</name>
-    <version>1.1</version>
+    <version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
